@@ -1,0 +1,3 @@
+recursive-include flask_inspector/static *
+recursive-include flask_inspector/templates *.html
+include README.rst
